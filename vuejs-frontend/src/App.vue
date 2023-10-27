@@ -3,7 +3,7 @@
     <div class="row justify-content-center">
       <div class="col-12 col-md-8 col-lg-6">
 
-        <h1 class="mb-4 text-center mt-4">📔 Todos List</h1>
+        <h1 class="mb-4 text-center mt-4">📔 Updated from Github Actions!</h1>
 
         <div v-if="loading" class="alert alert-info">
           <p class="text-center">Loading todos.. </p>
